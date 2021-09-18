@@ -8180,3 +8180,627 @@ Jaw
 [2021.09.18-21.45.20:770][797]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.18-21.45.20:770][797]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.09.18-21.45.20:770][797]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.18-21.45.44:856][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.09.18-21.45.48:691][ 95]LogSlate: Window 'Save Content' being destroyed
+[2021.09.18-21.45.48:735][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Arisa_AnimBP" FILE="D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arisa_AnimBP.uasset" SILENT=true
+[2021.09.18-21.45.48:747][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/Arisa_AnimBP631BDCEC46295A3E1F24619918BEB03B.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arisa_AnimBP.uasset'
+[2021.09.18-21.45.48:754][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/arissa" FILE="D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/arissa.uasset" SILENT=true
+[2021.09.18-21.45.48:775][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/arissa6FF27A99435961DDA59E1F96B18FE504.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/arissa.uasset'
+[2021.09.18-21.45.48:816][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/arissa_Anim_mixamo_comCEA876EF45D580B1A4696699CE7F6A9E.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/arissa_Anim_mixamo_com.uasset'
+[2021.09.18-21.45.48:828][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/arissa_Anim_Take_001F07A10714F9F7C86897FBBBE20B40B20.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/arissa_Anim_Take_001.uasset'
+[2021.09.18-21.45.48:886][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/Arissa_DIFF_diffuse85B05EBD4D5E5121DDA5CDA79B8BE99C.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arissa_DIFF_diffuse.uasset'
+[2021.09.18-21.45.48:896][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Arissa_MAT" FILE="D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arissa_MAT.uasset" SILENT=true
+[2021.09.18-21.45.48:899][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/Arissa_MAT521E81BE4546C4E3813254B76800C54A.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arissa_MAT.uasset'
+[2021.09.18-21.45.48:905][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Arissa_NM_normal" FILE="D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arissa_NM_normal.uasset" SILENT=true
+[2021.09.18-21.45.48:975][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/Arissa_NM_normal458C03E745089ED1F543E98E7889EC4B.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arissa_NM_normal.uasset'
+[2021.09.18-21.45.48:990][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/arissa_PhysicsAsset9C7E050240032C83E46704AB5EAA1729.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/arissa_PhysicsAsset.uasset'
+[2021.09.18-21.45.48:990][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/arissa_Skeleton" FILE="D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/arissa_Skeleton.uasset" SILENT=true
+[2021.09.18-21.45.48:991][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/arissa_SkeletonAAD1BFD9436F309A71B9E6886466A995.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/arissa_Skeleton.uasset'
+[2021.09.18-21.45.49:039][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/Arissa_SPEC_specular7159227849630BB02CD9D4AF4094FFCE.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Arissa_SPEC_specular.uasset'
+[2021.09.18-21.45.49:056][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/crouching_turn_90_leftCAC6384C48C15A8C521F469F5D4F2317.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/crouching_turn_90_left.uasset'
+[2021.09.18-21.45.49:074][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/crouching_turn_90_right90CE49654E8903D14F3B129F8CE4E892.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/crouching_turn_90_right.uasset'
+[2021.09.18-21.45.49:098][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/death_crouching_headshot_front1B5A9E5B4D250D3254FB2BA8B54D505A.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/death_crouching_headshot_front.uasset'
+[2021.09.18-21.45.49:123][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/death_from_back_headshot109C316B4E036A13097BE6895B265073.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/death_from_back_headshot.uasset'
+[2021.09.18-21.45.49:145][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/death_from_front_headshotBBFCD2AA40A48F71B7F6C99E75066F77.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/death_from_front_headshot.uasset'
+[2021.09.18-21.45.49:179][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/death_from_rightD1631D6E49BE7E9E1313C8B951AA4436.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/death_from_right.uasset'
+[2021.09.18-21.45.49:209][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/death_from_the_back6550210448B7D4D5A1524B89D19DFC45.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/death_from_the_back.uasset'
+[2021.09.18-21.45.49:240][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/death_from_the_front3E6D846A48001C6FA4DD069E0AD6748F.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/death_from_the_front.uasset'
+[2021.09.18-21.45.49:250][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Animations/idle" FILE="D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/idle.uasset" SILENT=true
+[2021.09.18-21.45.49:255][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/idle4C26FBE44F42C385202F51B96008A466.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/idle.uasset'
+[2021.09.18-21.45.49:265][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/idle_aiming4B989B3F4AF7A4D5012C03B65BDB145B.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/idle_aiming.uasset'
+[2021.09.18-21.45.49:278][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/idle_crouchingC31448CD4B5C6226E2BB1B8EE8F3A85B.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/idle_crouching.uasset'
+[2021.09.18-21.45.49:290][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/idle_crouching_aiming757351484771D3124A3EFDAC334F4DB6.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/idle_crouching_aiming.uasset'
+[2021.09.18-21.45.49:304][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/jump_downF3B7BEF742FEB772A684659BE0AEF4B5.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/jump_down.uasset'
+[2021.09.18-21.45.49:316][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/jump_loop19DB4F994B7E575FC00C1880C07EF2AF.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/jump_loop.uasset'
+[2021.09.18-21.45.49:329][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/jump_upF43DA2054F58088292C9E8AFDF11F8C4.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/jump_up.uasset'
+[2021.09.18-21.45.49:329][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RedVignette" FILE="D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/RedVignette.uasset" SILENT=true
+[2021.09.18-21.45.49:376][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/RedVignette0FF116E148CFE4C912BF51A63FF5AC67.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/RedVignette.uasset'
+[2021.09.18-21.45.49:390][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/reloading_inPlaceB31AAB6046D8E7626EE731A000688D81.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/reloading_inPlace.uasset'
+[2021.09.18-21.45.49:403][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_backward_inPlace799CDCDB4C4085FEC2FE27976126D912.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_backward_inPlace.uasset'
+[2021.09.18-21.45.49:417][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_backward_left_inPlace239292024AB1A0E5869D87848B540E07.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_backward_left_inPlace.uasset'
+[2021.09.18-21.45.49:429][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_backward_right_inPlace30ACAAD94F6846A048964EAD952AA9AB.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_backward_right_inPlace.uasset'
+[2021.09.18-21.45.49:440][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_forward_inPlace8ED02BED403DE748B9105FB26368E24F.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_forward_inPlace.uasset'
+[2021.09.18-21.45.49:452][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_forward_left_inPlace1988EFB545A32CDD555139814690DBA7.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_forward_left_inPlace.uasset'
+[2021.09.18-21.45.49:465][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_forward_right_inPlace2BA66D9F426EEC0703D523B288F8FC9D.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_forward_right_inPlace.uasset'
+[2021.09.18-21.45.49:477][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_left_inPlace795D181441CEDFAAB7BCA0A85B5CA43D.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_left_inPlace.uasset'
+[2021.09.18-21.45.49:488][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/run_right_inPlace7160830B4A8DECB7EFE2B887862DBE28.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/run_right_inPlace.uasset'
+[2021.09.18-21.45.49:500][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_backward_inPlaceBF29F18C4965D4BB2330D2BE7AD057DD.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_backward_inPlace.uasset'
+[2021.09.18-21.45.49:512][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_backward_left_inPlaceB00A11914A846D36B7BC909426BE3DD0.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_backward_left_inPlace.uasset'
+[2021.09.18-21.45.49:523][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_backward_right_inPlaceF2B5FF5E468C53BAA3CFBCA8AF687F01.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_backward_right_inPlace.uasset'
+[2021.09.18-21.45.49:535][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_forward_inPlaceD996DEEE400637E7659E8FBBF627F5B0.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_forward_inPlace.uasset'
+[2021.09.18-21.45.49:547][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_forward_left_inPlace60104B78431C4D7141435AB34D5D7BE6.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_forward_left_inPlace.uasset'
+[2021.09.18-21.45.49:559][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_forward_right_inPlace4DA251FC4F373898F4C9D58AB7C0B1CD.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_forward_right_inPlace.uasset'
+[2021.09.18-21.45.49:570][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_left_inPlace750F474A45A48B2E3ED8ADBC4ED25B8B.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_left_inPlace.uasset'
+[2021.09.18-21.45.49:582][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/sprint_right_inPlace4DD8A0824BFF40525258AA97C266C79C.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/sprint_right_inPlace.uasset'
+[2021.09.18-21.45.49:593][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/turn_90_left11904B6B4E6276B328E8739A741315EC.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/turn_90_left.uasset'
+[2021.09.18-21.45.49:607][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/turn_90_right5538387044F0E4C985A02EABEF98C6A9.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/turn_90_right.uasset'
+[2021.09.18-21.45.49:632][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_backward_inPlace909C332B41130096A6FB67A4809AABCD.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_backward_inPlace.uasset'
+[2021.09.18-21.45.49:646][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_backward_left_inPlaceA6B9D74342ABF749B643B1935ABCCFD6.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_backward_left_inPlace.uasset'
+[2021.09.18-21.45.49:657][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_backward_right_inPlace8DC89E1248ACBF955CFDD8B2316D87C1.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_backward_right_inPlace.uasset'
+[2021.09.18-21.45.49:669][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_backward_inPlaceAC32652244622B75D38446908C75AA7D.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_backward_inPlace.uasset'
+[2021.09.18-21.45.49:681][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_backward_left_inP2E13BBEA4A6EC7226B4395B9F2BFDB71.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_backward_left_inPlace.uasset'
+[2021.09.18-21.45.49:693][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_backward_right_inDC3DF4364D0E644CEDC5579655E36DB3.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_backward_right_inPlace.uasset'
+[2021.09.18-21.45.49:705][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_forward_inPlace0197F71740AB714F0A3079B40E8AD5FA.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_forward_inPlace.uasset'
+[2021.09.18-21.45.49:717][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_forward_left_inPlF774209344810B1B58EE4497023C6BA4.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_forward_left_inPlace.uasset'
+[2021.09.18-21.45.49:729][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_forward_right_inPCC60DCA44EC78843266774ADD5D2D434.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_forward_right_inPlace.uasset'
+[2021.09.18-21.45.49:740][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_left_inPlace01BE61D940C5188DBFB99AA1225B6858.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_left_inPlace.uasset'
+[2021.09.18-21.45.49:752][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_crouching_right_inPlaceAD4C065D448CCC840A78E093D33C9891.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_right_inPlace.uasset'
+[2021.09.18-21.45.49:763][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_forward_inPlace5DEDE5A54EBE74BA14E0E3B435CDE610.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_forward_inPlace.uasset'
+[2021.09.18-21.45.49:775][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_forward_left_inPlace2861965749CAF9CDCC03BF9B3BD2648C.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_forward_left_inPlace.uasset'
+[2021.09.18-21.45.49:788][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_forward_right_inPlaceE0FF18204AC669F8419C1CA5026F2C98.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_forward_right_inPlace.uasset'
+[2021.09.18-21.45.49:801][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_left_inPlaceA6BEB0AE44B3FF40FD8755A72BBBEBC2.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_left_inPlace.uasset'
+[2021.09.18-21.45.49:815][ 95]LogSavePackage: Moving 'D:/Games/UE4FPS/LearningFPS/Saved/walk_right_inPlaceA391CCF940E4D93119F8A88937666E93.tmp' to 'D:/Games/UE4FPS/LearningFPS/Content/ThirdPersonBP/Blueprints/Character/Animations/walk_right_inPlace.uasset'
+[2021.09.18-21.45.49:834][ 95]LogSlate: Window 'LearningFPS - Unreal Editor' being destroyed
+[2021.09.18-21.45.49:834][ 95]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-21.45.49:948][ 95]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/RedVignette.RedVignette
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Arisa_AnimBP.Arisa_AnimBP
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/death_crouching_headshot_front.death_crouching_headshot_front
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/crouching_turn_90_right.crouching_turn_90_right
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/crouching_turn_90_left.crouching_turn_90_left
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_right_inPlace.walk_right_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_left_inPlace.walk_left_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_forward_right_inPlace.walk_forward_right_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_forward_left_inPlace.walk_forward_left_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_forward_inPlace.walk_forward_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_right_inPlace.walk_crouching_right_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_left_inPlace.walk_crouching_left_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_forward_right_inPlace.walk_crouching_forward_right_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_forward_left_inPlace.walk_crouching_forward_left_inPlace
+[2021.09.18-21.45.49:948][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_forward_inPlace.walk_crouching_forward_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_backward_right_inPlace.walk_crouching_backward_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_backward_left_inPlace.walk_crouching_backward_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_crouching_backward_inPlace.walk_crouching_backward_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_backward_right_inPlace.walk_backward_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_backward_left_inPlace.walk_backward_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/walk_backward_inPlace.walk_backward_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/turn_90_right.turn_90_right
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/turn_90_left.turn_90_left
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_right_inPlace.sprint_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_left_inPlace.sprint_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_forward_right_inPlace.sprint_forward_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_forward_left_inPlace.sprint_forward_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_forward_inPlace.sprint_forward_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_backward_right_inPlace.sprint_backward_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_backward_left_inPlace.sprint_backward_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/sprint_backward_inPlace.sprint_backward_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_right_inPlace.run_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_left_inPlace.run_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_forward_right_inPlace.run_forward_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_forward_left_inPlace.run_forward_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_forward_inPlace.run_forward_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_backward_right_inPlace.run_backward_right_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_backward_left_inPlace.run_backward_left_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/run_backward_inPlace.run_backward_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/reloading_inPlace.reloading_inPlace
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/jump_up.jump_up
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/jump_loop.jump_loop
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/jump_down.jump_down
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/idle_crouching_aiming.idle_crouching_aiming
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/idle_crouching.idle_crouching
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/idle_aiming.idle_aiming
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/idle.idle
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/death_from_the_front.death_from_the_front
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/death_from_the_back.death_from_the_back
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/death_from_right.death_from_right
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/death_from_front_headshot.death_from_front_headshot
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/Animations/death_from_back_headshot.death_from_back_headshot
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating PhysicsAsset /Game/ThirdPersonBP/Blueprints/Character/arissa_PhysicsAsset.arissa_PhysicsAsset
+[2021.09.18-21.45.49:949][ 95]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Character/arissa_Skeleton.arissa_Skeleton
+[2021.09.18-21.45.49:950][ 95]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Character/Arissa_NM_normal.Arissa_NM_normal
+[2021.09.18-21.45.49:950][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/arissa_Anim_mixamo_com.arissa_Anim_mixamo_com
+[2021.09.18-21.45.49:950][ 95]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Character/Arissa_SPEC_specular.Arissa_SPEC_specular
+[2021.09.18-21.45.49:950][ 95]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/Character/arissa_Anim_Take_001.arissa_Anim_Take_001
+[2021.09.18-21.45.49:950][ 95]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/Character/Arissa_DIFF_diffuse.Arissa_DIFF_diffuse
+[2021.09.18-21.45.49:950][ 95]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Blueprints/Character/Arissa_MAT.Arissa_MAT
+[2021.09.18-21.45.49:950][ 95]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/arissa.arissa
+[2021.09.18-21.45.49:956][ 96]Cmd: QUIT_EDITOR
+[2021.09.18-21.45.49:956][ 96]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.09.18-21.45.49:959][ 96]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.09.18-21.45.50:514][ 96]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.09.18-21.45.50:514][ 96]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.09.18-21.45.50:514][ 96]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2021.09.18-21.45.50:514][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-21.45.50:516][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-21.45.50:556][ 96]LogAudio: Display: Audio Device Manager Shutdown
+[2021.09.18-21.45.50:560][ 96]LogExit: Preparing to exit.
+[2021.09.18-21.45.50:940][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.09.18-21.45.51:133][ 96]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:136][ 96]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:137][ 96]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:139][ 96]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:168][ 96]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:170][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.18-21.45.51:170][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.18-21.45.51:170][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.18-21.45.51:170][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.18-21.45.51:170][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.18-21.45.51:170][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.18-21.45.51:170][ 96]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.18-21.45.51:170][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:171][ 96]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:195][ 96]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.45.51:195][ 96]LogExit: Editor shut down
+[2021.09.18-21.45.51:197][ 96]LogExit: Transaction tracking system shut down
+[2021.09.18-21.45.51:204][ 96]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.09.18-21.45.51:624][ 96]LogExit: Object subsystem successfully closed.
+[2021.09.18-21.45.51:643][ 96]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.18-21.45.51:643][ 96]LogShaderCompilers: Display: Total job queries 1688, among them cache hits 344 (20.38%)
+[2021.09.18-21.45.51:643][ 96]LogShaderCompilers: Display: Tracking 782 distinct input hashes that result in 146 distinct outputs (18.67%)
+[2021.09.18-21.45.51:643][ 96]LogShaderCompilers: Display: RAM used: 0.88 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2021.09.18-21.45.51:643][ 96]LogShaderCompilers: Display: ================================================
+[2021.09.18-21.45.51:671][ 96]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module AnimationEditor (886)
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module NewLevelDialog (884)
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module PinnedCommandList (882)
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module SkeletonEditor (880)
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module SequencerWidgets (878)
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2021.09.18-21.45.51:771][ 96]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2021.09.18-21.45.51:772][ 96]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2021.09.18-21.45.51:772][ 96]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2021.09.18-21.45.51:775][ 96]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2021.09.18-21.45.51:775][ 96]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2021.09.18-21.45.51:775][ 96]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2021.09.18-21.45.51:775][ 96]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2021.09.18-21.45.51:776][ 96]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2021.09.18-21.45.51:776][ 96]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2021.09.18-21.45.51:777][ 96]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2021.09.18-21.45.51:777][ 96]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2021.09.18-21.45.51:777][ 96]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2021.09.18-21.45.51:777][ 96]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2021.09.18-21.45.51:777][ 96]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2021.09.18-21.45.51:778][ 96]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2021.09.18-21.45.51:779][ 96]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2021.09.18-21.45.51:779][ 96]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2021.09.18-21.45.51:779][ 96]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2021.09.18-21.45.51:779][ 96]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2021.09.18-21.45.51:779][ 96]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2021.09.18-21.45.51:779][ 96]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2021.09.18-21.45.51:780][ 96]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2021.09.18-21.45.51:781][ 96]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2021.09.18-21.45.51:782][ 96]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2021.09.18-21.45.51:782][ 96]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2021.09.18-21.45.51:782][ 96]LogModuleManager: Shutting down and abandoning module PlanarCut (822)
+[2021.09.18-21.45.51:782][ 96]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2021.09.18-21.45.51:782][ 96]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2021.09.18-21.45.51:782][ 96]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2021.09.18-21.45.51:783][ 96]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2021.09.18-21.45.51:783][ 96]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2021.09.18-21.45.51:784][ 96]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2021.09.18-21.45.51:785][ 96]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2021.09.18-21.45.51:786][ 96]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2021.09.18-21.45.51:786][ 96]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2021.09.18-21.45.51:786][ 96]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2021.09.18-21.45.51:787][ 96]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2021.09.18-21.45.51:787][ 96]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2021.09.18-21.45.51:788][ 96]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2021.09.18-21.45.51:789][ 96]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2021.09.18-21.45.51:789][ 96]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2021.09.18-21.45.51:789][ 96]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2021.09.18-21.45.51:789][ 96]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2021.09.18-21.45.51:789][ 96]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2021.09.18-21.45.51:789][ 96]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2021.09.18-21.45.51:789][ 96]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2021.09.18-21.45.51:790][ 96]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2021.09.18-21.45.51:790][ 96]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2021.09.18-21.45.51:792][ 96]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2021.09.18-21.45.51:792][ 96]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2021.09.18-21.45.51:792][ 96]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2021.09.18-21.45.51:792][ 96]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2021.09.18-21.45.51:793][ 96]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2021.09.18-21.45.51:793][ 96]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2021.09.18-21.45.52:733][ 96]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2021.09.18-21.45.52:734][ 96]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2021.09.18-21.45.52:734][ 96]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2021.09.18-21.45.52:734][ 96]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2021.09.18-21.45.52:734][ 96]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2021.09.18-21.45.52:737][ 96]MemoryProfiler: Shutdown
+[2021.09.18-21.45.52:737][ 96]NetworkingProfiler: Shutdown
+[2021.09.18-21.45.52:737][ 96]LoadingProfiler: Shutdown
+[2021.09.18-21.45.52:737][ 96]TimingProfiler: Shutdown
+[2021.09.18-21.45.52:739][ 96]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2021.09.18-21.45.52:740][ 96]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2021.09.18-21.45.52:740][ 96]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2021.09.18-21.45.52:740][ 96]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2021.09.18-21.45.52:741][ 96]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2021.09.18-21.45.52:742][ 96]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2021.09.18-21.45.52:743][ 96]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2021.09.18-21.45.52:743][ 96]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2021.09.18-21.45.52:743][ 96]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2021.09.18-21.45.52:743][ 96]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2021.09.18-21.45.52:744][ 96]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2021.09.18-21.45.52:744][ 96]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2021.09.18-21.45.52:744][ 96]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2021.09.18-21.45.52:744][ 96]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2021.09.18-21.45.52:744][ 96]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2021.09.18-21.45.52:744][ 96]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2021.09.18-21.45.52:744][ 96]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2021.09.18-21.45.52:745][ 96]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2021.09.18-21.45.52:746][ 96]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2021.09.18-21.45.52:746][ 96]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2021.09.18-21.45.52:746][ 96]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2021.09.18-21.45.52:747][ 96]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2021.09.18-21.45.52:779][ 96]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2021.09.18-21.45.52:781][ 96]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2021.09.18-21.45.52:781][ 96]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2021.09.18-21.45.52:783][ 96]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2021.09.18-21.45.52:783][ 96]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2021.09.18-21.45.52:784][ 96]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2021.09.18-21.45.52:784][ 96]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2021.09.18-21.45.52:786][ 96]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2021.09.18-21.45.52:786][ 96]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2021.09.18-21.45.52:786][ 96]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2021.09.18-21.45.52:786][ 96]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2021.09.18-21.45.52:793][ 96]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2021.09.18-21.45.52:793][ 96]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2021.09.18-21.45.52:794][ 96]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2021.09.18-21.45.52:794][ 96]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2021.09.18-21.45.52:795][ 96]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2021.09.18-21.45.52:795][ 96]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2021.09.18-21.45.52:797][ 96]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2021.09.18-21.45.52:801][ 96]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2021.09.18-21.45.52:802][ 96]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2021.09.18-21.45.52:805][ 96]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2021.09.18-21.45.52:805][ 96]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2021.09.18-21.45.52:805][ 96]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2021.09.18-21.45.52:805][ 96]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2021.09.18-21.45.52:806][ 96]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2021.09.18-21.45.52:808][ 96]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2021.09.18-21.45.52:813][ 96]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2021.09.18-21.45.52:952][ 96]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2021.09.18-21.45.52:953][ 96]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2021.09.18-21.45.52:953][ 96]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2021.09.18-21.45.52:956][ 96]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2021.09.18-21.45.52:956][ 96]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2021.09.18-21.45.52:956][ 96]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2021.09.18-21.45.52:956][ 96]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2021.09.18-21.45.52:956][ 96]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2021.09.18-21.45.52:957][ 96]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2021.09.18-21.45.52:957][ 96]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2021.09.18-21.45.52:957][ 96]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module TakeSequencer (578)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module TakeMovieScene (576)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module EditableMesh (572)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (570)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2021.09.18-21.45.52:958][ 96]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module AssetTags (562)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (558)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module AppleImageUtils (556)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module AndroidPermission (554)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (552)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (550)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (544)
+[2021.09.18-21.45.52:959][ 96]LogOpenImageDenoise: OIDN shutting down
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (542)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module MotoSynth (540)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module MediaCompositing (538)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module ImgMedia (536)
+[2021.09.18-21.45.52:959][ 96]LogModuleManager: Shutting down and abandoning module MeshConversion (534)
+[2021.09.18-21.45.52:960][ 96]LogModuleManager: Shutting down and abandoning module DynamicMesh (532)
+[2021.09.18-21.45.52:960][ 96]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (530)
+[2021.09.18-21.45.52:961][ 96]LogModuleManager: Shutting down and abandoning module GeometricObjects (528)
+[2021.09.18-21.45.52:962][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (526)
+[2021.09.18-21.45.52:962][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (524)
+[2021.09.18-21.45.52:962][ 96]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (522)
+[2021.09.18-21.45.52:962][ 96]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (521)
+[2021.09.18-21.45.52:962][ 96]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (518)
+[2021.09.18-21.45.52:962][ 96]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (516)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (514)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (512)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (510)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (508)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (506)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (504)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2021.09.18-21.45.52:964][ 96]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2021.09.18-21.45.52:965][ 96]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2021.09.18-21.45.52:965][ 96]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (497)
+[2021.09.18-21.45.52:965][ 96]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (494)
+[2021.09.18-21.45.52:965][ 96]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (478)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (476)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2021.09.18-21.45.52:966][ 96]LogModuleManager: Shutting down and abandoning module PluginBrowser (472)
+[2021.09.18-21.45.52:968][ 96]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2021.09.18-21.45.52:968][ 96]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2021.09.18-21.45.52:969][ 96]LogModuleManager: Shutting down and abandoning module UObjectPlugin (466)
+[2021.09.18-21.45.52:969][ 96]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (464)
+[2021.09.18-21.45.52:969][ 96]LogModuleManager: Shutting down and abandoning module CryptoKeys (462)
+[2021.09.18-21.45.52:969][ 96]LogModuleManager: Shutting down and abandoning module CurveEditorTools (460)
+[2021.09.18-21.45.52:969][ 96]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (458)
+[2021.09.18-21.45.52:970][ 96]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (456)
+[2021.09.18-21.45.52:970][ 96]LogModuleManager: Shutting down and abandoning module PluginUtils (454)
+[2021.09.18-21.45.52:970][ 96]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (452)
+[2021.09.18-21.45.52:971][ 96]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (450)
+[2021.09.18-21.45.52:973][ 96]LogModuleManager: Shutting down and abandoning module GitSourceControl (448)
+[2021.09.18-21.45.52:973][ 96]LogModuleManager: Shutting down and abandoning module SourceControl (447)
+[2021.09.18-21.45.52:974][ 96]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2021.09.18-21.45.52:974][ 96]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (442)
+[2021.09.18-21.45.52:974][ 96]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (440)
+[2021.09.18-21.45.52:974][ 96]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (438)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module GameplayCameras (434)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (432)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (430)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (428)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (426)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (424)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (422)
+[2021.09.18-21.45.52:975][ 96]LogModuleManager: Shutting down and abandoning module LiveLink (420)
+[2021.09.18-21.45.53:114][ 96]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (418)
+[2021.09.18-21.45.53:114][ 96]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (416)
+[2021.09.18-21.45.53:115][ 96]LogModuleManager: Shutting down and abandoning module Paper2DEditor (414)
+[2021.09.18-21.45.53:117][ 96]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (412)
+[2021.09.18-21.45.53:118][ 96]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (410)
+[2021.09.18-21.45.53:119][ 96]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2021.09.18-21.45.53:119][ 96]LogModuleManager: Shutting down and abandoning module SoundFields (406)
+[2021.09.18-21.45.53:119][ 96]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2021.09.18-21.45.53:119][ 96]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2021.09.18-21.45.53:120][ 96]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2021.09.18-21.45.53:120][ 96]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2021.09.18-21.45.53:120][ 96]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2021.09.18-21.45.53:120][ 96]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2021.09.18-21.45.53:120][ 96]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2021.09.18-21.45.53:120][ 96]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2021.09.18-21.45.53:221][ 96]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2021.09.18-21.45.53:322][ 96]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (384)
+[2021.09.18-21.45.53:322][ 96]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (382)
+[2021.09.18-21.45.53:322][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (380)
+[2021.09.18-21.45.53:322][ 96]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (378)
+[2021.09.18-21.45.53:322][ 96]LogModuleManager: Shutting down and abandoning module Niagara (376)
+[2021.09.18-21.45.53:325][ 96]LogModuleManager: Shutting down and abandoning module SignalProcessing (375)
+[2021.09.18-21.45.53:325][ 96]LogModuleManager: Shutting down and abandoning module NiagaraEditor (373)
+[2021.09.18-21.45.53:327][ 96]LogModuleManager: Shutting down and abandoning module NiagaraCore (370)
+[2021.09.18-21.45.53:327][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (368)
+[2021.09.18-21.45.53:327][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (366)
+[2021.09.18-21.45.53:327][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (364)
+[2021.09.18-21.45.53:327][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (362)
+[2021.09.18-21.45.53:328][ 96]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (360)
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (358)
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (356)
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (354)
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapController (352)
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (350)
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module MagicLeapAR (348)
+[2021.09.18-21.45.53:328][ 96]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2021.09.18-21.45.53:329][ 96]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2021.09.18-21.45.53:329][ 96]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2021.09.18-21.45.53:329][ 96]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2021.09.18-21.45.53:329][ 96]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2021.09.18-21.45.53:330][ 96]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2021.09.18-21.45.53:333][ 96]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2021.09.18-21.45.53:334][ 96]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2021.09.18-21.45.53:335][ 96]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2021.09.18-21.45.53:335][ 96]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2021.09.18-21.45.53:335][ 96]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2021.09.18-21.45.53:336][ 96]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2021.09.18-21.45.53:336][ 96]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2021.09.18-21.45.53:336][ 96]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2021.09.18-21.45.53:336][ 96]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2021.09.18-21.45.53:336][ 96]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2021.09.18-21.45.53:336][ 96]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2021.09.18-21.45.53:336][ 96]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2021.09.18-21.45.53:338][ 96]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.09.18-21.45.53:339][ 96]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2021.09.18-21.45.53:339][ 96]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2021.09.18-21.45.53:340][ 96]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.09.18-21.45.53:340][ 96]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.09.18-21.45.53:340][ 96]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.09.18-21.45.53:340][ 96]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.09.18-21.45.53:341][ 96]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.09.18-21.45.53:341][ 96]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.09.18-21.45.53:341][ 96]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.09.18-21.45.53:341][ 96]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.09.18-21.45.53:342][ 96]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.09.18-21.45.53:343][ 96]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.09.18-21.45.53:343][ 96]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.09.18-21.45.53:345][ 96]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.09.18-21.45.53:345][ 96]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.09.18-21.45.53:347][ 96]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.09.18-21.45.53:347][ 96]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.09.18-21.45.53:347][ 96]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.09.18-21.45.53:348][ 96]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.09.18-21.45.53:348][ 96]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.09.18-21.45.53:353][ 96]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.09.18-21.45.53:354][ 96]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.09.18-21.45.53:354][ 96]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.09.18-21.45.53:354][ 96]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.09.18-21.45.53:356][ 96]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.09.18-21.45.53:357][ 96]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.09.18-21.45.53:357][ 96]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.09.18-21.45.53:358][ 96]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.09.18-21.45.53:361][ 96]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.09.18-21.45.53:361][ 96]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.09.18-21.45.53:361][ 96]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.09.18-21.45.53:361][ 96]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.09.18-21.45.53:362][ 96]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.09.18-21.45.53:362][ 96]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.09.18-21.45.53:363][ 96]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.09.18-21.45.53:363][ 96]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.09.18-21.45.53:364][ 96]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.09.18-21.45.53:365][ 96]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.09.18-21.45.53:366][ 96]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.09.18-21.45.53:366][ 96]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.09.18-21.45.53:366][ 96]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.09.18-21.45.53:367][ 96]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.09.18-21.45.53:368][ 96]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.09.18-21.45.53:370][ 96]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.09.18-21.45.53:371][ 96]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.09.18-21.45.53:372][ 96]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.09.18-21.45.53:372][ 96]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.09.18-21.45.53:372][ 96]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.09.18-21.45.53:372][ 96]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.09.18-21.45.53:372][ 96]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.09.18-21.45.53:372][ 96]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.09.18-21.45.53:373][ 96]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.09.18-21.45.53:373][ 96]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.09.18-21.45.53:373][ 96]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.09.18-21.45.53:373][ 96]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.09.18-21.45.53:373][ 96]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.09.18-21.45.53:373][ 96]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.09.18-21.45.53:374][ 96]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.09.18-21.45.53:374][ 96]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.09.18-21.45.53:374][ 96]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.09.18-21.45.53:374][ 96]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.09.18-21.45.53:374][ 96]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.09.18-21.45.53:379][ 96]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.09.18-21.45.53:379][ 96]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.09.18-21.45.53:379][ 96]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.09.18-21.45.53:379][ 96]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.09.18-21.45.53:379][ 96]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.09.18-21.45.53:388][ 96]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.09.18-21.45.53:392][ 96]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.09.18-21.45.53:406][ 96]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.09.18-21.45.53:407][ 96]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.09.18-21.45.53:408][ 96]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.09.18-21.45.53:409][ 96]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2021.09.18-21.45.53:409][ 96]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2021.09.18-21.45.53:409][ 96]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2021.09.18-21.45.53:409][ 96]LogHMD: Freeing OpenVRDLLHandle.
+[2021.09.18-21.45.53:409][ 96]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2021.09.18-21.45.53:410][ 96]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2021.09.18-21.45.53:411][ 96]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.09.18-21.45.53:411][ 96]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2021.09.18-21.45.53:411][ 96]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.09.18-21.45.53:412][ 96]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.09.18-21.45.53:412][ 96]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.09.18-21.45.53:413][ 96]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.09.18-21.45.53:413][ 96]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.09.18-21.45.53:414][ 96]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.09.18-21.45.53:414][ 96]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.09.18-21.45.53:414][ 96]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.09.18-21.45.53:419][ 96]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.09.18-21.45.53:423][ 96]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.09.18-21.45.53:499][ 96]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.09.18-21.45.53:499][ 96]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.09.18-21.45.53:499][ 96]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF3AFE9F-4B0C-F91C-0982-7DAF5A4B7E4F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=a81fd3454e17a4aecf26839aa266b758%7C10040f5e0d6643a798e23ae43e19b8c8%7Cb9962917-cfd1-4a03-b250-5fd721795971&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.09.18-21.45.53:499][ 96]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.09.18-21.45.53:505][ 96]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.09.18-21.45.53:507][ 96]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.09.18-21.45.53:511][ 96]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.09.18-21.45.53:511][ 96]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.09.18-21.45.53:511][ 96]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.09.18-21.45.53:512][ 96]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.09.18-21.45.53:512][ 96]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (64)
+[2021.09.18-21.45.53:512][ 96]LogModuleManager: Shutting down and abandoning module NiagaraShader (62)
+[2021.09.18-21.45.53:512][ 96]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2021.09.18-21.45.53:512][ 96]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2021.09.18-21.45.53:513][ 96]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2021.09.18-21.45.53:513][ 96]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.09.18-21.45.53:513][ 96]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.09.18-21.45.53:514][ 96]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.09.18-21.45.53:514][ 96]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.09.18-21.45.53:514][ 96]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.09.18-21.45.53:514][ 96]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.09.18-21.45.53:515][ 96]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.09.18-21.45.53:515][ 96]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.09.18-21.45.53:515][ 96]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.09.18-21.45.53:516][ 96]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.09.18-21.45.53:516][ 96]LogXGEController: Cleaning working directory: C:/Users/aiden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.09.18-21.45.53:517][ 96]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.09.18-21.45.53:518][ 96]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.09.18-21.45.53:520][ 96]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.09.18-21.45.53:520][ 96]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.09.18-21.45.53:521][ 96]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.09.18-21.45.53:521][ 96]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.09.18-21.45.53:521][ 96]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.09.18-21.45.53:527][ 96]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.09.18-21.45.53:528][ 96]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.09.18-21.45.53:529][ 96]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.09.18-21.45.53:530][ 96]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.09.18-21.45.53:530][ 96]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.09.18-21.45.53:531][ 96]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.09.18-21.45.53:531][ 96]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.09.18-21.45.53:531][ 96]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.09.18-21.45.53:531][ 96]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.09.18-21.45.53:531][ 96]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.09.18-21.45.53:532][ 96]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.09.18-21.45.53:559][ 96]LogD3D11RHI: Shutdown
+[2021.09.18-21.45.53:559][ 96]LogD3D11RHI: CleanupD3DDevice
+[2021.09.18-21.45.53:593][ 96]LogExit: Exiting.
+[2021.09.18-21.45.53:605][ 96]Log file closed, 09/18/21 17:45:53
