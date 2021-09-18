@@ -3460,3 +3460,72 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.09.18-21.19.52:850][ 80]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.09.18-21.19.54:927][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2021.09.18-21.19.57:614][327]LogSlate: Window 'Save Content' being destroyed
+[2021.09.18-21.20.54:957][ 83]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Games\UE4 FPS Assets\OmenCompleted.fbx)
+[2021.09.18-21.20.54:965][ 83]LogFbx: Loading FBX Scene from D:\Games\UE4 FPS Assets\OmenCompleted.fbx
+[2021.09.18-21.20.55:004][ 83]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.18-21.21.14:415][ 83]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.18-21.21.14:430][ 83]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/Character/Omen_Body_Material.Omen_Body_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2021.09.18-21.21.14:430][ 83]LogMaterial: Display: Missing cached shadermap for Omen_Body_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 4F76317B58845D03C5531B8DFB43986F9008E665), compiling. 
+[2021.09.18-21.21.14:445][ 83]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.09.18-21.21.14:447][ 83]LogMaterial: Display: Missing cached shadermap for Omen_Body_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 12F6A68C86EE4AB8EC8205A37820C737F478BF51), compiling. 
+[2021.09.18-21.21.14:451][ 83]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.09.18-21.21.14:459][ 83]LogSkeletalMesh: Display: /Game/ThirdPersonBP/Blueprints/Character/OmenCompleted.OmenCompleted ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.09.18-21.21.14:469][ 83]LogSkeletalMesh: Section 0: Material=0, 1168 triangles
+[2021.09.18-21.21.14:472][ 83]LogSkeletalMesh: Building Skeletal Mesh OmenCompleted...
+[2021.09.18-21.21.14:479][ 83]LogSkeletalMesh: Display: /Game/ThirdPersonBP/Blueprints/Character/OmenCompleted.OmenCompleted ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.09.18-21.21.14:488][ 83]LogSkeletalMesh: Section 0: Material=0, 1168 triangles
+[2021.09.18-21.21.14:489][ 83]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Character/OmenCompleted.OmenCompleted
+[2021.09.18-21.21.14:498][ 83]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.09.18-21.21.14:522][ 83]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.21.14:522][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-21.21.14:533][ 83]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.09.18-21.21.14:533][ 83]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.21.14:533][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-21.21.14:552][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.09.18-21.21.14:571][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.09.18-21.21.14:576][ 83]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'Omen Body Material' was renamed 'Omen Body Material_ncl1_1' 
+[2021.09.18-21.21.14:576][ 83]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2021.09.18-21.21.14:576][ 83]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2021.09.18-21.21.14:576][ 83]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.18-21.21.14:576][ 83]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.09.18-21.21.14:576][ 83]FBXImport: Warning: The bone size is too small to create Physics Asset 'OmenCompleted_PhysicsAsset' from Skeletal Mesh 'OmenCompleted'. You will have to create physics asset manually. 
+[2021.09.18-21.21.14:747][ 88]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.18-21.21.14:747][ 88]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.18-21.21.14:754][ 88]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.09.18-21.21.14:754][ 88]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.09.18-21.21.14:754][ 88]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.09.18-21.21.14:754][ 88]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.09.18-21.21.14:754][ 88]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.18-21.21.14:761][ 88]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.09.18-21.21.14:807][ 92]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Normal' priority
+[2021.09.18-21.21.15:672][168]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.09.18-21.21.15:672][168]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.18-21.21.15:678][168]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.18-21.21.15:678][168]LogShaderCompilers: Display: Total job queries 1483, among them cache hits 299 (20.16%)
+[2021.09.18-21.21.15:678][168]LogShaderCompilers: Display: Tracking 591 distinct input hashes that result in 105 distinct outputs (17.77%)
+[2021.09.18-21.21.15:678][168]LogShaderCompilers: Display: RAM used: 0.66 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2021.09.18-21.21.15:678][168]LogShaderCompilers: Display: ================================================
+[2021.09.18-21.21.15:874][184]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2021.09.18-21.21.15:874][184]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.18-21.21.15:876][184]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.09.18-21.21.15:876][184]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.09.18-21.21.15:876][184]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.09.18-21.21.21:131][784]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-21.21.21:133][784]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-21.21.23:515][ 64]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/OmenCompleted.OmenCompleted
+[2021.09.18-21.21.23:524][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.18-21.21.23:749][ 64]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.09.18-21.21.30:905][843]LogSlate: Window 'OmenCompleted' being destroyed
+[2021.09.18-21.21.30:952][843]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-21.21.30:952][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-21.21.34:730][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.09.18-21.21.36:014][276]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.18-21.21.36:058][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
